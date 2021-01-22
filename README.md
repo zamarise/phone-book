@@ -1,6 +1,6 @@
 # Phone Book
 
-> Enter a person's name and phone number and see the entry in a list. Add and delete users from the list.
+> Enter a person's name and phone number in a form and see the entry in a list. Add and delete list entries.
 
 ## Project setup
 
