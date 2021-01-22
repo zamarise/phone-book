@@ -1,6 +1,6 @@
 # Phone Book
 
-> Users should be able to enter a person's name and phone number and be able to add and delete users from the list.
+> Enter a person's name and phone number. Add and delete users from the list.
 
 ## Project setup
 
